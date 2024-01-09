@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\bin\Debug\net7.0\DatetimeAndMathClasses.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\bin\Debug\net7.0\DatetimeAndMathClasses.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\bin\Debug\net7.0\DatetimeAndMathClasses.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\bin\Debug\net7.0\DatetimeAndMathClasses.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\bin\Debug\net7.0\DatetimeAndMathClasses.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\refint\DatetimeAndMathClasses.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\DatetimeAndMathClasses.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\DatetimeAndMathClasses\obj\Debug\net7.0\ref\DatetimeAndMathClasses.dll
